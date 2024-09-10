@@ -9,6 +9,7 @@
 <p>
 <p align="center">
  <img width="200px" src="img/web1.png" alt="qr"/>
+ <img width="200px" src="img/web2.png" alt="qr"/>
 </p>
 <p align="center">
  <img width="200px" src="img/web2.png" alt="qr"/>
