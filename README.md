@@ -4,6 +4,13 @@
 Создание проекта
 
 Скрины кода:
+
+<p align="center">
+ <img width="200px" src="img/code1.png" alt="qr"/>
+ <img width="200px" src="img/code2.png" alt="qr"/>
+</p>
+
+Скрины результата:
 <p align="center">
     Web версия
 <p>
@@ -12,24 +19,8 @@
  <img width="200px" src="img/web2.png" alt="qr"/>
 </p>
 <p align="center">
- <img width="200px" src="img/web2.png" alt="qr"/>
-</p>
-<p align="center">
     Android версия
 </p>
 <p align="center">
  <img width="200px" src="img/android.jpg" alt="qr"/>
 </p>
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
