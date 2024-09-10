@@ -21,6 +21,9 @@
 <p align="center">
     Android версия
 </p>
+<p>
+    Я запустил на телефоне в режиме отладки
+</p>
 <p align="center">
  <img width="400px" src="img/android.jpg" alt="qr"/>
 </p>
