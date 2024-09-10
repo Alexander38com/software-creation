@@ -1,6 +1,12 @@
 # project_1
 
-A new Flutter project.
+Практика 1
+Создание проекта
+
+Скрины кода:
+<p align="center">
+ <img width="200px" src="img.png" alt="qr"/>
+</p>
 
 ## Getting Started
 
