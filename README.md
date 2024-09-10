@@ -1,11 +1,11 @@
-# project_1
+# Практическая работа №1 Протасов Александр ЭФБО-01-22
 
 Практика 1
 Создание проекта
 
 Скрины кода:
 <p align="center">
- <img width="200px" src="img.png" alt="qr"/>
+ <img width="200px" src="img/img.png" alt="qr"/>
 </p>
 
 ## Getting Started
